@@ -3,8 +3,20 @@ In 2017, the total generation of of solid municipal waste was 267.8 million tons
 
 Helply allows users to pinpoint nearby donation and recycling centers, ship, and recycle their old household items, and receive reward points in return for helping their communities while reducing their waste production -- all within the comforts of home!
 
-1. Clone repository
 
+Ensure Apache Cordova is installed on the system
+
+1. Clone repository
 ```
-git clone https://github.com/rajansrohit/ionic-helply.git
+  git clone https://github.com/rajansrohit/ionic-helply.git
+```
+
+2. Build (iOS)
+```
+  cordova build ios
+```
+
+2. Run/Emulate (iOs)
+```
+  cordova emulate ios
 ```
