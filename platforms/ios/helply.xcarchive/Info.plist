@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/helply.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>com.rohit.helply</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.0.0</string>
+		<key>CFBundleVersion</key>
+		<string>1.0.0</string>
+		<key>SigningIdentity</key>
+		<string>Apple Development: hellorohit@live.com (6K4CKRXUH2)</string>
+		<key>Team</key>
+		<string>327477ABSK</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2020-05-17T02:32:49Z</date>
+	<key>Name</key>
+	<string>helply</string>
+	<key>SchemeName</key>
+	<string>helply</string>
+</dict>
+</plist>
