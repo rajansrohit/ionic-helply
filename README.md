@@ -16,7 +16,7 @@ Ensure Apache Cordova is installed on the system
   cordova build ios
 ```
 
-2. Run/Emulate (iOs)
+2. Run/Emulate (iOS)
 ```
   cordova emulate ios
 ```
