@@ -102,11 +102,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		mKTbFMA72xNIcuu81ZuJ4IWc3fM=
+		+7/ATbNsZIsfkQEMV1V6C5cESWo=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		bg/h270UJQnUyl3or+YaK+1nnm0=
+		gO0yyfAhyLGV7lXpDS4zCkLA2dY=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		hUR1TQmDfET0mSQjsGG9d2r29SM=
+		9bxezsZgwqVSMiwrOM/Y/y70eZo=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -194,7 +194,7 @@
 		</data>
 		<key>MainViewController.nib</key>
 		<data>
-		FFYI8tGBTDKlyHVXmTB7JUDEhyI=
+		2utnMYu/rpJiNbT0vCdrUqlHW6k=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -310,11 +310,7 @@
 		</data>
 		<key>www/assets/imgs/IMG_5570.PNG</key>
 		<data>
-		olh7H7gv8SelxXgEBENlgIr0b/o=
-		</data>
-		<key>www/assets/imgs/cracked.jpg</key>
-		<data>
-		GUjkEv8l7JieIGtJk/rCKNxc2Ss=
+		83VoH4SQKjxw6qAn2fdvCxsGcKI=
 		</data>
 		<key>www/assets/imgs/ewasteR.png</key>
 		<data>
@@ -327,6 +323,10 @@
 		<key>www/assets/imgs/floppy-disks.jpg</key>
 		<data>
 		XWuJGvOuchp6Bitbl6K7o0IHG0A=
+		</data>
+		<key>www/assets/imgs/games.jpg</key>
+		<data>
+		91q0cHmGrirJ4RCBIPF0IjrFK80=
 		</data>
 		<key>www/assets/imgs/helplysplash.png</key>
 		<data>
@@ -342,11 +342,7 @@
 		</data>
 		<key>www/assets/imgs/pic.jpg</key>
 		<data>
-		7Y8QQ74nU0FLnJ/uqKmR3HkUs04=
-		</data>
-		<key>www/assets/imgs/sean-brown-2384-unsplash.jpg</key>
-		<data>
-		7Y8QQ74nU0FLnJ/uqKmR3HkUs04=
+		A/x9rWWL62mzPRTRK/rivA/Jt9I=
 		</data>
 		<key>www/assets/imgs/secure.png</key>
 		<data>
@@ -366,7 +362,7 @@
 		</data>
 		<key>www/build/main.js</key>
 		<data>
-		iXdm8LULFeVQ/w/KOs7aLrEpN6k=
+		3R+/u37NjGpJ62Mo+hnc47+2bXU=
 		</data>
 		<key>www/build/main.js.map</key>
 		<data>
@@ -695,22 +691,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mKTbFMA72xNIcuu81ZuJ4IWc3fM=
+			+7/ATbNsZIsfkQEMV1V6C5cESWo=
 			</data>
 			<key>hash2</key>
 			<data>
-			dGlUXFR2dKbj2Ks0jnkmdIlI6FzQ/rmhT/9Ib+MUyJc=
+			NRkbFkouBuyrAnbTA/ZSSIUZkAAB8EP7PlPfpAeuDgM=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bg/h270UJQnUyl3or+YaK+1nnm0=
+			gO0yyfAhyLGV7lXpDS4zCkLA2dY=
 			</data>
 			<key>hash2</key>
 			<data>
-			6RRv5DASGX8z2MMAcsbhctQ3QMmv9I/2f8gSXDwltLM=
+			WRtzAA1jiG6pN7jk71KAHM+rkTlDQBltIsviAOCxQ6o=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
@@ -728,11 +724,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hUR1TQmDfET0mSQjsGG9d2r29SM=
+			9bxezsZgwqVSMiwrOM/Y/y70eZo=
 			</data>
 			<key>hash2</key>
 			<data>
-			cjW9W55MuoMYdzCTjOIdIea9a82Amu3Gs6CnOsC/8fQ=
+			00JgzfRloMVjo4ccIDsUZ96WBugM6m5wCP8Y2cFO9nI=
 			</data>
 		</dict>
 		<key>LaunchImage-1100-Landscape-2436h@3x.png</key>
@@ -937,11 +933,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FFYI8tGBTDKlyHVXmTB7JUDEhyI=
+			2utnMYu/rpJiNbT0vCdrUqlHW6k=
 			</data>
 			<key>hash2</key>
 			<data>
-			wYbVvhYf0LhMI2dq6j8wIHL1GTNpIn3R3inMbVokfiA=
+			x0z0sKBe2UO6YPxxqCjCi8mnVi4EzLlTKs/jknXxVUg=
 			</data>
 		</dict>
 		<key>config.xml</key>
@@ -1245,22 +1241,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			olh7H7gv8SelxXgEBENlgIr0b/o=
+			83VoH4SQKjxw6qAn2fdvCxsGcKI=
 			</data>
 			<key>hash2</key>
 			<data>
-			XR7ErJQibGSrtIX9rZ7Vo1oP/R1+fanX5JaVir/4I4g=
-			</data>
-		</dict>
-		<key>www/assets/imgs/cracked.jpg</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GUjkEv8l7JieIGtJk/rCKNxc2Ss=
-			</data>
-			<key>hash2</key>
-			<data>
-			VpFCM/xSxcDyToo9AoyuFqKefUeQh4XmdXLzS774ypU=
+			wIwtVmSs5POaxDSeAPfBxCjTCJllBp5n+kkyUfMC7xA=
 			</data>
 		</dict>
 		<key>www/assets/imgs/ewasteR.png</key>
@@ -1294,6 +1279,17 @@
 			<key>hash2</key>
 			<data>
 			TIxh7RpKVCQx85r1Na7yEx3oWlMQc3nxbRg/A7MmflU=
+			</data>
+		</dict>
+		<key>www/assets/imgs/games.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			91q0cHmGrirJ4RCBIPF0IjrFK80=
+			</data>
+			<key>hash2</key>
+			<data>
+			o42OMzWnT4XCxituC8S9uhTxXsS/OhFtSFFp7W+Me1A=
 			</data>
 		</dict>
 		<key>www/assets/imgs/helplysplash.png</key>
@@ -1333,22 +1329,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7Y8QQ74nU0FLnJ/uqKmR3HkUs04=
+			A/x9rWWL62mzPRTRK/rivA/Jt9I=
 			</data>
 			<key>hash2</key>
 			<data>
-			brU3zEniFeRxTYWiM7o21ybyFU2yh7v2wwJLHYeIsZs=
-			</data>
-		</dict>
-		<key>www/assets/imgs/sean-brown-2384-unsplash.jpg</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7Y8QQ74nU0FLnJ/uqKmR3HkUs04=
-			</data>
-			<key>hash2</key>
-			<data>
-			brU3zEniFeRxTYWiM7o21ybyFU2yh7v2wwJLHYeIsZs=
+			y+yc7GVwA++T54nhVMfAZxSxNJl3RZTji7AjEo1/L2E=
 			</data>
 		</dict>
 		<key>www/assets/imgs/secure.png</key>
@@ -1399,11 +1384,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iXdm8LULFeVQ/w/KOs7aLrEpN6k=
+			3R+/u37NjGpJ62Mo+hnc47+2bXU=
 			</data>
 			<key>hash2</key>
 			<data>
-			OAILccrff3uQrTteQgtwzck3f0DPGA/LQgYJcGSXPiM=
+			eST8piMGuGzcs8hIr2wxT6fF7v2Oo8werIQFE3NPLEs=
 			</data>
 		</dict>
 		<key>www/build/main.js.map</key>
