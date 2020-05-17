@@ -24,7 +24,7 @@
         an awesome recycling and donation app.
     </description>
     <author email="">
-        Rohit Rajan Applications
+        rohit rajan applications
     </author>
     <content src="index.html" />
     <access origin="*" />
